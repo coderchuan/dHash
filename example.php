@@ -2,6 +2,6 @@
 
 include 'dhash.php';
 
-$hash = dhash('../phash/phash1.jpg');
+$hash = dhash('images/forest-high.jpg');
 
 echo $hash;
